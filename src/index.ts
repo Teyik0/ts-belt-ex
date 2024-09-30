@@ -26,8 +26,9 @@ import { resultFn4 } from './result/ex4';
 import { resultFn5 } from './result/ex5';
 import { resultFn6 } from './result/ex6';
 import { resultFn7 } from './result/ex7';
-import { functionFn1 } from './fzfz/ex1';
+import { functionFn1 } from './function/ex1';
 import { functionFn2 } from './function/ex2';
+import { functionFn3 } from './function/ex3';
 
 ArrayFn1();
 ArrayFn2();
@@ -62,3 +63,4 @@ resultFn7();
 
 functionFn1();
 functionFn2();
+functionFn3();
